@@ -5,7 +5,7 @@ let items = [
     description: "Keep your workspace clean and clutter-free with reliable, plug & play wireless connectivity.",
     price: "₹645",
     images: "img/grid/mouse.jpg",
-    button: `<button class="button-55" role="button" onclick="addtocart(${1})">Add to cart</button>`
+    button: `<button class="button-55" role="button" onclick="addtocart()">Add to cart</button>`
   },
   { 
     id: 2,
@@ -13,7 +13,7 @@ let items = [
     description: "Dimensity 7200 5G Processor | Sony IMX882 OIS Camera | 120Hz AMOLED with 1800 nits Local Peak Brightness | 44W Charger in The Box",
     price: "₹21,998",
     images: "img/grid/phone.jpg",
-    button: `<button class="button-55" role="button" onclick="addtocart(${2})">Add to cart</button>`
+    button: `<button class="button-55" role="button" onclick="addtocart()">Add to cart</button>`
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ let items = [
     description: "Inverter Touch panel Fully-Automatic Front Load Washing Machine with In-Built Heater (FHM1207SDM, Middle Black, Steam for Hygiene Wash)",
     price: "₹43,990",
     images: "img/grid/ws.jpg",
-    button: `<button class="button-55" role="button" onclick="addtocart(${3})">Add to cart</button>`
+    button: `<button class="button-55" role="button" onclick="addtocart()">Add to cart</button>`
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ let items = [
     description: "Playback- It provides a massive battery backup of upto 15 hours for a superior playback time.",
     price: "₹21,998",
     images: "img/grid/boat.jpg",
-    button: `<button class="button-55" role="button" onclick="addtocart(${4})">Add to cart</button>`
+    button: `<button class="button-55" role="button" onclick="addtocart()">Add to cart</button>`
   }
 ];
 
